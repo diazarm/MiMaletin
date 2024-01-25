@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/porfolio/static/css/main.67201bec.css",
+    "main.js": "/porfolio/static/js/main.cfad8daa.js",
+    "static/media/rick.svg": "/porfolio/static/media/rick.c7cfbe7388a6b22718ef25a8df5b95cf.svg",
+    "static/media/ha.jpg": "/porfolio/static/media/ha.13625b1a32bd3aac053b.jpg",
+    "static/media/analista.svg": "/porfolio/static/media/analista.fc421c2963478493ffe6168041340041.svg",
+    "static/media/country.svg": "/porfolio/static/media/country.8f6b1e93465e4b95c519adb486f972ed.svg",
+    "static/media/ta.svg": "/porfolio/static/media/ta.a15a9b9cf44eada0a78fc89f91421ddb.svg",
+    "static/media/dogs-capture.svg": "/porfolio/static/media/dogs-capture.b76e33d1a49be98f83c97feec9c0b831.svg",
+    "static/media/film.svg": "/porfolio/static/media/film.1eae4135c8edf0bc99c80655f56835ef.svg",
+    "static/media/eCalendary.svg": "/porfolio/static/media/eCalendary.492f29c005092755053f5367a7d25f75.svg",
+    "static/media/MarceloArDiazCV.pdf": "/porfolio/static/media/MarceloArDiazCV.b7ba62868f559c28c9a1.pdf",
+    "static/media/scrum.svg": "/porfolio/static/media/scrum.1fd789f204f978706ed1874836c2d422.svg",
+    "static/media/aprende.svg": "/porfolio/static/media/aprende.6f9a5e01d03fad8c6b7f7838dc9feefb.svg",
+    "static/media/a-male-person.png": "/porfolio/static/media/a-male-person.613db10c04e5720eae98.png",
+    "static/media/ft.svg": "/porfolio/static/media/ft.842c0cf895ac4eaf711c7f08b5b8e0ad.svg",
+    "static/media/home-main.svg": "/porfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/home-bg.jpg": "/porfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/sLogo.png": "/porfolio/static/media/sLogo.67b3ec3f387fd58740ee.png",
+    "static/media/pre.svg": "/porfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/porfolio/index.html",
+    "main.67201bec.css.map": "/porfolio/static/css/main.67201bec.css.map",
+    "main.cfad8daa.js.map": "/porfolio/static/js/main.cfad8daa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67201bec.css",
+    "static/js/main.cfad8daa.js"
+  ]
+}
